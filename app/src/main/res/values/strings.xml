@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialLogin</string>
+    <string name="facebook_app_id">512948089951153</string>
+    <string name="fb_login_protocol_scheme">fb512948089951153</string>
+    <string name="img">img</string>
+
+</resources>
